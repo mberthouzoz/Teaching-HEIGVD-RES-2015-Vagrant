@@ -4,7 +4,12 @@ pom.xml.releaseBackup
 pom.xml.versionsBackup
 pom.xml.next
 release.properties
+<<<<<<< HEAD
 node_modules/
 .vagrant
 *.box
 .DS_Store
+=======
+test-stats.json
+test-results.json
+>>>>>>> efc080b7e06abc574902184d411e2406e647aab9
